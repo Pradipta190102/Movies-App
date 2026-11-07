@@ -2,8 +2,6 @@
 
 A movie catalogue built with the MERN stack: browse and search movies, register and log in, leave reviews, and manage content through an admin panel.
 
-> Based on the tutorial project by [HuXn-WebDev](https://github.com/HuXn-WebDev/MERN-Movies-App) ([video](https://www.youtube.com/watch?v=Bd1EBSCu2os)). Credit to the original author.
-
 ## Tech stack
 
 - **Frontend:** React 18, Vite, React Router 6, Redux Toolkit (RTK Query), Tailwind CSS, react-slick, react-toastify
